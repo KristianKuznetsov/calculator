@@ -1,0 +1,62 @@
+[
+  {
+    "num1": 2.0,
+    "num2": 2.0,
+    "type": "sum",
+    "result": 4.0
+  },
+  {
+    "num1": 3.0,
+    "num2": 3.0,
+    "type": "sum",
+    "result": 6.0
+  },
+  {
+    "num1": 4.0,
+    "num2": 5.0,
+    "type": "sum",
+    "result": 9.0
+  },
+  {
+    "num1": 23.0,
+    "num2": 21.0,
+    "type": "sum",
+    "result": 44.0
+  },
+  {
+    "num1": 1.0,
+    "num2": 99.0,
+    "type": "sum",
+    "result": 100.0
+  },
+  {
+    "num1": 2.0,
+    "num2": 99.0,
+    "type": "sum",
+    "result": 101.0
+  },
+  {
+    "num1": 2.0,
+    "num2": 99.0,
+    "type": "sum",
+    "result": 101.0
+  },
+  {
+    "num1": 23.0,
+    "num2": 77.0,
+    "type": "sum",
+    "result": 100.0
+  },
+  {
+    "num1": 2.0,
+    "num2": 2.0,
+    "type": "sum",
+    "result": 4.0
+  },
+  {
+    "num1": 2.0,
+    "num2": 2.0,
+    "type": "sum",
+    "result": 4.0
+  }
+]
